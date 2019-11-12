@@ -2,7 +2,65 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
+      <loc>https://example.com/tags/blog/</loc>
+      
+      <lastmod>2019-11-11T23:02:06+09:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
       <loc>https://example.com/categories/</loc>
+      
+      <lastmod>2019-11-11T23:02:06+09:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://example.com/categories/dev/</loc>
+      
+      <lastmod>2019-11-11T23:02:06+09:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://example.com/tags/gitblog/</loc>
+      
+      <lastmod>2019-11-11T23:02:06+09:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://example.com/tags/guelog/</loc>
+      
+      <lastmod>2019-11-11T23:02:06+09:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -16,6 +74,22 @@
     <url>
       <loc>https://example.com/</loc>
       
+      <lastmod>2019-11-11T23:02:06+09:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://example.com/post/</loc>
+      
+      <lastmod>2019-11-11T23:02:06+09:00</lastmod>
+      
       
       <changefreq>monthly</changefreq>
       
@@ -27,6 +101,22 @@
   
     <url>
       <loc>https://example.com/tags/</loc>
+      
+      <lastmod>2019-11-11T23:02:06+09:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://example.com/post/2019-11-11/</loc>
+      
+      <lastmod>2019-11-11T23:02:06+09:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
